@@ -1,5 +1,15 @@
 # 공부일지 (240723 - 241223)
+## 241028
+### js
+- 데이터타입 String, Number, Bollean, undefined, null, object, Function, Array, typeof에 대해 배웠다.
+- 문자열연산자, 산술연산자, 증감연산자에대해 배웠다.
+
 ## 241025
+### js
+- 자바스크립트 대해 배웠다.
+- 자바스크립의 내부선언과 외부선언에 대해 배웠다.
+- Dialog의 다양한 사용자 입출력, 알림에 대해 배웠다.
+- variable 변수에대해 배웠다. 
 
 ## 241024
 ### reponsiveWeb
