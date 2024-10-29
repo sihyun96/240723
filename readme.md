@@ -1,4 +1,10 @@
 # 공부일지 (240723 - 241223)
+## 241029
+### js
+- 비교연산자, 대입연산자, 논리연산자에대해 배웠다.
+- if 조건문, else-if 조건문에 대해 배웠다. 
+- 변수에 입력창을 대입하여 if 조건문 예제를 풀었다.
+
 ## 241028
 ### js
 - 데이터타입 String, Number, Bollean, undefined, null, object, Function, Array, typeof에 대해 배웠다.
